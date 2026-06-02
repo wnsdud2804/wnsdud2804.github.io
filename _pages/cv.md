@@ -45,7 +45,10 @@ toc:
 
 - Regular Club Activities
 - Acquired foundational knowledge in C programming
-- Took the TOPCIT exam
+
+### TOPCIT Exam
+
+Took the TOPCIT exam.
 
 ## Resume PDF
 

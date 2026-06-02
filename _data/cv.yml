@@ -48,6 +48,10 @@
       description:
         - Regular Club Activities
         - Acquired foundational knowledge in C programming
+    - title: TOPCIT Exam
+      institution:
+      year:
+      description:
         - Took the TOPCIT exam
 
 - title: Resume PDF

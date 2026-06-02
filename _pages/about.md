@@ -43,7 +43,8 @@ Mar. 2022 - Sep. 2022
 
 - Regular Club Activities
 - Acquired foundational knowledge in C programming
-- Took the TOPCIT exam
+
+**Took the TOPCIT exam**
 
 ## Contact
 
