@@ -1,15 +1,61 @@
 ---
 layout: page
 permalink: /cv/
-title: cv
-hide_title: true
+title: Resume
+hide_title: false
 nav: true
 nav_order: 3
-cv_pdf: example_pdf.pdf # you can also use external links here
 toc:
   sidebar: left
 ---
 
-You can find my full <b>Curriculum Vitae (CV)</b> below. <br>
-If you’d like to get in touch, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/parag0hz) or [email](mailto:limcon010@gmail.com)!
-<iframe src="{{ '/assets/pdf/dongwon_cv.pdf' | relative_url }}" width="100%" height="1000px" style="border: none;"></iframe>
+## About Me
+
+- **Major:** Artificial Intelligence
+- **Areas of Interest:** Computer Vision, LLM
+- **Career Objective:** Computer Vision Engineer
+- **Currently Learning:** Deep Learning, Natural Language Processing
+- **Areas of Interest in AI:** Computer Vision, LLM
+
+## Education
+
+- **Institution:** Chosun University
+- **Department:** Major in Artificial Intelligence Engineering, School of AI & SW
+- **Year:** 3rd year, Junior
+- **Dates Attended:** Mar. 2022 - Present
+- **Leave of Absence:** Mar. 2023 - Feb. 2025
+- **Total Attendance:** 2 years and 3 months
+- **Relevant Coursework:** Artificial Intelligence, Object Oriented Programming, Machine Learning, Data Structure, Algorithm
+
+## Skills
+
+**Programming:** Python, Java, C/C++
+
+| Language | Proficiency |
+| --- | --- |
+| Python | Basic |
+| Java | Basic |
+| C/C++ | Basic |
+
+## Experience
+
+### Devsign Club Member
+
+**Mar. 2022 - Sep. 2022**
+
+- Regular Club Activities
+- Acquired foundational knowledge in C programming
+- Took the TOPCIT exam
+
+## Resume PDF
+
+[Download Resume PDF]({{ '/assets/pdf/resume.pdf' | relative_url }})
+
+## Contact
+
+- **Email:** [wnsdud2804@naver.com](mailto:wnsdud2804@naver.com)
+- **GitHub:** [github.com/wnsdud2804](https://github.com/wnsdud2804)
+
+## Career Goal / Future Plan
+
+Computer Vision Engineer

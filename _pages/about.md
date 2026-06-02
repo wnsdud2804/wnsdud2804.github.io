@@ -2,103 +2,50 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle:
 
-profile:
-  align: right
-  image: prof_pic.png
-  image_circular: false # crops the image to make it circular
-  image_style: "width: 130px;"
-  more_info: >
-
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
 
-Hi! I’m Dongwon Lim, an undergraduate student majoring in AI Engineering at Chosun University. I am currently an undergraduate researcher at the **SFAI (Sensor Fusion Artificial Intelligence) LAB**.
+I am an undergraduate student majoring in **Artificial Intelligence** at **Chosun University**. My main areas of interest are **Computer Vision** and **LLM**, and my career goal is to become a **Computer Vision Engineer**.
 
-My research interests include **3D Gaussian Splatting**, **Computer Vision**, **Signal Processing**, and **Large Language Models (LLMs)**. I am passionate about exploring how these technologies can be integrated to solve complex real-world problems.
+I am currently learning **Deep Learning** and **Natural Language Processing** while building a stronger foundation in AI and software engineering.
 
-My current projects focus on:
-- 3D Reconstruction and Scene Representation using Gaussian Splatting
-- Advanced Computer Vision techniques for object detection and analysis
-- Signal Processing for sensor fusion in AI systems
-- Exploring the capabilities and applications of Large Language Models
+## Education
 
-Beyond research, I enjoy thinking about how emerging technologies can become meaningfully embedded in our everyday lives and designing thoughtful user experiences.
+- **Institution:** Chosun University
+- **Department:** Major in Artificial Intelligence Engineering, School of AI & SW
+- **Year:** 3rd year, Junior
+- **Dates Attended:** Mar. 2022 - Present
+- **Leave of Absence:** Mar. 2023 - Feb. 2025
+- **Relevant Coursework:** Artificial Intelligence, Object Oriented Programming, Machine Learning, Data Structure, Algorithm
 
-Please feel free to reach out via LinkedIn or email at [limcon00@chosun.ac.kr](mailto:limcon00@chosun.ac.kr)!
+## Skills
 
----
+- **Programming:** Python, Java, C/C++
+- **Proficiency:** Basic
 
-<div style="display: flex; flex-wrap: wrap; gap: 3rem; justify-content: space-between;">
+## Experience
 
-<!-- Education Section -->
-<div style="flex: 1; min-width: 300px;">
-  <h3 style="font-size: 1.4rem;">Education</h3>
+**Devsign Club Member**  
+Mar. 2022 - Sep. 2022
 
-  <div style="margin-bottom: 1rem; line-height: 1.5;">
-    <div style="font-size: 1.05rem; display: flex; align-items: center;">
-      <img src="/assets/img/chosun.jpg" alt="Chosun Logo" style="height: 20px; margin-right: 8px;">
-      <b>B.S.</b> in AI Engineering
-    </div>
-    <div style="font-size: 0.85rem;">Chosun University, Korea</div>
-    <div style="color: #555; font-size: 0.75rem;"><i>Mar 2021 – Feb 2027 (Expected)</i></div>
-  </div>
+- Regular Club Activities
+- Acquired foundational knowledge in C programming
+- Took the TOPCIT exam
 
-  <div style="margin-bottom: 1rem; line-height: 1.5;">
-    <div style="font-size: 1.05rem; display: flex; align-items: center;">
-      <img src="/assets/img/uog.png" alt="University of Guam Logo" style="height: 20px; margin-right: 8px;">
-      <b>University of Guam</b>
-    </div>
-    <div style="font-size: 0.85rem;">Exchange Student</div>
-    <div style="color: #555; font-size: 0.75rem;"><i>Jan 2026</i></div>
-  </div>
+## Contact
 
-  <div style="margin-bottom: 1rem; line-height: 1.5;">
-    <div style="font-size: 1.05rem; display: flex; align-items: center;">
-      <div style="width: 22px; height: 22px; overflow: hidden; margin-right: 8px; display: flex; align-items: center;">
-        <img src="/assets/img/smart_logo.png" alt="Smart IT Academy Logo" style="height: 100%; width: auto; max-width: none;">
-      </div>
-      <b>Smart IT Academy (SMHRD)</b>
-    </div>
-    <div style="font-size: 0.85rem;">Certificate of Completion: Intelligent Control Service Based on Object Intelligence (3rd Session)</div>
-    <div style="color: #555; font-size: 0.75rem;"><i>Feb 2024 – Aug 2024</i></div>
-  </div>
-
-  <div style="margin-bottom: 1rem; line-height: 1.5;">
-    <div style="font-size: 1.05rem; display: flex; align-items: center;">
-      <img src="/assets/img/sunny.png" alt="LG Aimers Logo" style="height: 20px; margin-right: 8px;">
-      <b>LG Aimers</b>
-    </div>
-    <div style="font-size: 0.85rem;">AI Education Bootcamp </div>
-    <div style="color: #555; font-size: 0.75rem;"><i>Jan 2026 – Present</i></div>
-  </div>
-</div>
-
-<!-- Research Experience Section -->
-<div style="flex: 1; min-width: 300px;">
-  <h3 style="font-size: 1.4rem;">Research Experience</h3>
-
-  <div style="margin-bottom: 1rem; line-height: 1.5; display: flex; align-items: flex-start;">
-    <img src="/assets/img/chosun.jpg" alt="Chosun Logo" style="height: 20px; margin-right: 8px;">
-    <div>
-      <div style="font-size: 1.05rem;"><b>Undergraduate Researcher</b></div>
-      <div style="font-size: 0.95rem;">SFAI (Sensor Fusion Artificial Intelligence) LAB</div>
-      <div style="color: #555; font-size: 0.85rem; font-style: italic;">Advisor: Prof. Wonyeol Kim</div>
-      <div style="color: #555; font-size: 0.75rem;"><i>Aug 2024 - Present</i></div>
-    </div>
-  </div>
-</div>
-
-</div>
+- **Email:** [wnsdud2804@naver.com](mailto:wnsdud2804@naver.com)
+- **GitHub:** [github.com/wnsdud2804](https://github.com/wnsdud2804)

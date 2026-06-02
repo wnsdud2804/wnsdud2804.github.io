@@ -1,97 +1,69 @@
-- title: General Information
+- title: About Me
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Major
+      value: Artificial Intelligence
+    - name: Areas of Interest
+      value: Computer Vision, LLM
+    - name: Career Objective
+      value: Computer Vision Engineer
+    - name: Currently Learning
+      value: Deep Learning, Natural Language Processing
+    - name: Areas of Interest in AI
+      value: Computer Vision, LLM
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Major in Artificial Intelligence Engineering, School of AI & SW
+      institution: Chosun University
+      year: Mar. 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - 3rd year, Junior
+        - "Total Attendance: 2 years and 3 months"
+        - "Leave of Absence: Mar. 2023 - Feb. 2025"
+        - title: Relevant Coursework
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - Artificial Intelligence
+            - Object Oriented Programming
+            - Machine Learning
+            - Data Structure
+            - Algorithm
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Programming
+      items:
+        - Python - Basic
+        - Java - Basic
+        - C/C++ - Basic
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Club Member
+      institution: Devsign
+      year: Mar. 2022 - Sep. 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - Regular Club Activities
+        - Acquired foundational knowledge in C programming
+        - Took the TOPCIT exam
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Resume PDF
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <a href="/assets/pdf/resume.pdf">Download Resume PDF</a>
+
+- title: Contact
+  type: map
+  contents:
+    - name: Email
+      value: <a href="mailto:wnsdud2804@naver.com">wnsdud2804@naver.com</a>
+    - name: GitHub
+      value: <a href="https://github.com/wnsdud2804">github.com/wnsdud2804</a>
+
+- title: Career Goal / Future Plan
+  type: list
+  contents:
+    - Computer Vision Engineer
