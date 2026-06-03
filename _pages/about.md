@@ -36,6 +36,10 @@ I am currently learning **Deep Learning** and **Natural Language Processing** wh
 - **Programming:** Python, Java, C/C++
 - **Proficiency:** Basic
 
+## Projects
+
+No plans at this time.
+
 ## Experience
 
 **Devsign Club Member**  

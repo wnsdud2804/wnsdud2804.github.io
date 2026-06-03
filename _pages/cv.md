@@ -37,6 +37,10 @@ toc:
 | Java | Basic |
 | C/C++ | Basic |
 
+## Projects
+
+No plans at this time.
+
 ## Experience
 
 ### Devsign Club Member

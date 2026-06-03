@@ -39,6 +39,11 @@
         - Java - Basic
         - C/C++ - Basic
 
+- title: Projects
+  type: list
+  contents:
+    - No plans at this time.
+
 - title: Experience
   type: time_table
   contents:
